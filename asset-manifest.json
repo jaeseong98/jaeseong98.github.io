@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai-market-dashboard/static/css/main.8282c9b9.css",
+    "main.js": "/ai-market-dashboard/static/js/main.dd540b59.js",
+    "static/js/453.9537af23.chunk.js": "/ai-market-dashboard/static/js/453.9537af23.chunk.js",
+    "index.html": "/ai-market-dashboard/index.html",
+    "main.8282c9b9.css.map": "/ai-market-dashboard/static/css/main.8282c9b9.css.map",
+    "main.dd540b59.js.map": "/ai-market-dashboard/static/js/main.dd540b59.js.map",
+    "453.9537af23.chunk.js.map": "/ai-market-dashboard/static/js/453.9537af23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8282c9b9.css",
+    "static/js/main.dd540b59.js"
+  ]
+}
